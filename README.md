@@ -7,7 +7,7 @@ SPA boilerplate for your Vue 2.0 projects using [laravel-mix](https://github.com
 $ git clone https://github.com/cklmercer/vue-mix
 ```
 
-**Move in the the project directory**
+**Move into the the project directory**
 ```bash
 $ cd vue-mix
 ```
