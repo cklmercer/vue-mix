@@ -1,4 +1,4 @@
-import app from './app'
+import app from './components/app'
 import router from './router'
 import store from './store'
 
