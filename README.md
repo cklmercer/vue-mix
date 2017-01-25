@@ -1,5 +1,5 @@
 # vue-mix
-SPA boilerplate for your Vue 2.0 projects using `laravel-mix`
+SPA boilerplate for your Vue 2.0 projects using [laravel-mix](https://github.com/jeffreyway/laravel-mix).
 
 ## Setup
 **Clone the repository**
@@ -41,6 +41,7 @@ This boilerplate makes use of a couple plugins.
 
 * `vue-router`: For SPA routing. Learn more at [vue-router](https://github.com/vuejs/vue-router)
 * `vue-stash`: For global store access. Learn more at [vue-stash](https://github.com/cklmercer/vue-stash)
+* `vue-events`: For global event bus. Learn more at [vue-events](https://github.com/cklmercer/vue-events)
 
 ## License
 Copyright (c) 2016 Cody Mercer
