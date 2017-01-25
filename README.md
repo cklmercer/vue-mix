@@ -31,6 +31,9 @@ $ npm run build
 $ npm run dev
 ```
 
+**Open project in browser**
+Open your favorite browser and navigate to `http://localhost:8080`.
+
 ## Development
 Once you got the project built and you have a dev server running, you're free to begin developing.
 With your dev server running, hot module reloading _(HMR)_ is enabled by default, simply make some
