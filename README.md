@@ -1,5 +1,5 @@
 # vue-mix
-SPA boilerplate for you Vue 2.0 projects using `laravel-mix`
+SPA boilerplate for your Vue 2.0 projects using `laravel-mix`
 
 ## Setup
 **Clone the repository**
