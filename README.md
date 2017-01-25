@@ -32,6 +32,7 @@ $ npm run dev
 ```
 
 **Open project in browser**
+
 Open your favorite browser and navigate to `http://localhost:8080`.
 
 ## Development
