@@ -33,7 +33,7 @@ $ npm run dev
 
 ## Development
 Once you got the project built and you have a dev server running, you're free to begin developing.
-With you dev server running, hot module reloading _(HMR)_ is enabled by default, simply make some
+With your dev server running, hot module reloading _(HMR)_ is enabled by default, simply make some
 changes to your code and watch as your browser _"refreshes"_ itself automatically.
 
 ## Plugins
