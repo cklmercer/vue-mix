@@ -37,7 +37,7 @@ With your dev server running, hot module reloading _(HMR)_ is enabled by default
 changes to your code and watch as your browser _"refreshes"_ itself automatically.
 
 ## Plugins
-This boilerplate makes use of a couple plugins.
+This boilerplate makes use of a few plugins.
 
 * `vue-router`: For SPA routing. Learn more at [vue-router](https://github.com/vuejs/vue-router)
 * `vue-stash`: For global store access. Learn more at [vue-stash](https://github.com/cklmercer/vue-stash)
