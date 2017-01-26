@@ -47,6 +47,9 @@ This boilerplate makes use of a few plugins.
 * `vue-stash`: For global store access. Learn more at [vue-stash](https://github.com/cklmercer/vue-stash)
 * `vue-events`: For global event bus. Learn more at [vue-events](https://github.com/cklmercer/vue-events)
 
+## Demo Video
+[vue-mix setup](https://www.youtube.com/watch?v=6qK_sAvCPfA_)
+
 ## License
 Copyright (c) 2016 Cody Mercer
 
