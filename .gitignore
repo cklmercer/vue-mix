@@ -1,5 +1,4 @@
 node_modules
 npm-debug.log
-public/css
-public
+public/
 !public/index.html
