@@ -47,6 +47,12 @@ This boilerplate makes use of a few plugins.
 * `vue-stash`: For global store access. Learn more at [vue-stash](https://github.com/cklmercer/vue-stash)
 * `vue-events`: For global event bus. Learn more at [vue-events](https://github.com/cklmercer/vue-events)
 
+## Branches
+There are a couple of different versions of this boilerplate..
+* `master`: Includes a couple of examples to help you get going.
+* `barebones`: Same as master except there are no examples.
+* `bulma`: Includes the Bulma css framework and font-awesome, no examples.
+
 ## Demo Video
 [vue-mix setup](https://www.youtube.com/watch?v=6qK_sAvCPfA_)
 
